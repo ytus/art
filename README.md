@@ -4,3 +4,6 @@
 * [Artsper](https://www.artsper.com/en/)
 * [LOT-ART](https://www.lot-art.com/)
 * [catawiki](https://www.catawiki.com/)
+
+### 📄
+* [generative artistry](https://generativeartistry.com/tutorials/)
